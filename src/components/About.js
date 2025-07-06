@@ -86,7 +86,7 @@ const About = () => {
                     marginBottom: '0.5rem'
                   }}
                 >
-                  2+
+                  1
                 </div>
                 <div style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>
                   Years Experience
