@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aakashdeep-portfolio.vercel.app/sitemap.xml
